@@ -13,8 +13,8 @@
     width: 100%;
     max-width: 1200px;
     margin-left: auto;
-    margin-left: auto;
-    padding-left: 40px;
+    margin-right: auto;
+    padding-left: 40ox;
     padding-bottom:80px;
     color: #ffffff;
     font-weight: bold;
@@ -164,7 +164,7 @@ img{
 }
 
 .copyright{
-    font-size: 14px;
+    font-size: 14pt;
     font-weight: bold;
     margin-top: 90px;
 }
